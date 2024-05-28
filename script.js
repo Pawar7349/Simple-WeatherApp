@@ -1,4 +1,4 @@
-const WEATHER_API_KEY = 'YOUR_API_KEY_HERE'; // Replace with your actual API key
+const WEATHER_API_KEY = 'e16a36462590fdd12f74a66344450adb'; // Replace with your actual API key
 
 let weather = {
     "apikey": WEATHER_API_KEY,
